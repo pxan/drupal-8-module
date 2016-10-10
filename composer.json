@@ -1,0 +1,20 @@
+{
+  "name": "drupal/algolia",
+  "description": "Drupal 8 integraetion for Algolia",
+  "type": "drupal-module",
+  "homepage": "https://www.drupal.org/",
+  "require": {
+    "algolia/algoliasearch-client-php": "*"
+  },
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "pxan",
+      "role": "Creator and Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/pxan/drupal-8-module/issues/",
+    "source": "https://github.com/pxan/drupal-8-module"
+  }
+}
